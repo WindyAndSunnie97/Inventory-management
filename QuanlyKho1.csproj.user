@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="DocumentDetailsEx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DocumentDetailsIm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditDocument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormDocument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewDocument.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewPerson.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="reportbill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="QuanLyKhoHangDataSet.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>

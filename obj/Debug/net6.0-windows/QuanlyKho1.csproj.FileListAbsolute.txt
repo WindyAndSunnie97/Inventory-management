@@ -1,0 +1,521 @@
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.exe
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.dll.config
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.deps.json
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.runtimeconfig.json
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.pdb
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Humanizer.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.csproj.AssemblyReference.cache
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.EditInventory.resources
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.EditProduct.resources
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormDocument.resources
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormExDocument.resources
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormInventory.resources
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormPerson.resources
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormProduct.resources
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.NewInventory.resources
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.NewProduct.resources
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.csproj.GenerateResource.cache
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.GeneratedMSBuildEditorConfig.editorconfig
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.AssemblyInfoInputs.cache
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.AssemblyInfo.cs
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.csproj.CoreCompileInputs.cache
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.csproj.CopyComplete
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\refint\QuanlyKho1.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.pdb
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.genruntimeconfig.cache
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\ref\QuanlyKho1.dll
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QLKH.NewDocument.resources
+D:\QLKHOHANG (1)\QuanlyKho1\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.DocumentDetails.resources
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.exe
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.dll.config
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.deps.json
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.runtimeconfig.json
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.pdb
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.csproj.AssemblyReference.cache
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.DocumentDetailsEx.resources
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.DocumentDetailsIm.resources
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.EditInventory.resources
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.EditProduct.resources
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormDocument.resources
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormExDocument.resources
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormInventory.resources
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormLogin.resources
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormMain.resources
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormPerson.resources
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormProduct.resources
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QLKH.NewDocument.resources
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.NewInventory.resources
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.NewProduct.resources
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.Properties.Resources.resources
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.csproj.GenerateResource.cache
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.AssemblyInfoInputs.cache
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.AssemblyInfo.cs
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.csproj.CoreCompileInputs.cache
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.csproj.CopyComplete
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\refint\QuanlyKho1.dll
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.pdb
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.genruntimeconfig.cache
+C:\Document\LapTrinhWindow\Stock\QuanlyKho1\obj\Debug\net6.0-windows\ref\QuanlyKho1.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.exe
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.dll.config
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.deps.json
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.runtimeconfig.json
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.pdb
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Humanizer.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.csproj.AssemblyReference.cache
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.DocumentDetailsEx.resources
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.DocumentDetailsIm.resources
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.EditInventory.resources
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.EditProduct.resources
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormDocument.resources
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormInventory.resources
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormLogin.resources
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormMain.resources
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormPerson.resources
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormProduct.resources
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QLKH.NewDocument.resources
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.NewInventory.resources
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.NewProduct.resources
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.Properties.Resources.resources
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.csproj.GenerateResource.cache
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.AssemblyInfoInputs.cache
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.AssemblyInfo.cs
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.csproj.CoreCompileInputs.cache
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.csproj.CopyComplete
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.dll
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\refint\QuanlyKho1.dll
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.pdb
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.genruntimeconfig.cache
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\ref\QuanlyKho1.dll
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.EditPerson.resources
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.NewPerson.resources
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.EditUser.resources
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormUser.resources
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.NewUser.resources
+D:\QuanlyKho\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.EditDocument.resources
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Design.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WebDesign.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WebForms.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Types.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\QuanlyKho\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.exe
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.dll.config
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.deps.json
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.runtimeconfig.json
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\QuanlyKho1.pdb
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Design.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WebForms.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.SqlServer.Types.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.csproj.AssemblyReference.cache
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.DocumentDetailsEx.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.DocumentDetailsIm.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.EditDocument.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.EditInventory.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.EditPerson.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.EditProduct.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.EditUser.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormDocument.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormInventory.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormLogin.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormMain.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormPerson.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormProduct.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.FormUser.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QLKH.NewDocument.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.NewInventory.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.NewPerson.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.NewProduct.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.NewUser.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.Properties.Resources.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.csproj.GenerateResource.cache
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.AssemblyInfoInputs.cache
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.AssemblyInfo.cs
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.csproj.CoreCompileInputs.cache
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.csproj.CopyComplete
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\refint\QuanlyKho1.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.pdb
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.genruntimeconfig.cache
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\ref\QuanlyKho1.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\obj\Debug\net6.0-windows\QuanlyKho1.reportbill.resources
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\ttath\OneDrive\tài liệu hk2-n3\QuanlyKho1\bin\Debug\net6.0-windows\SolrNet.dll
